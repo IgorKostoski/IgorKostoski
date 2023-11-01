@@ -13,4 +13,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorkostoski&show_icons=true&locale=en&layout=compact" alt="igorkostoski" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorkostoski&" alt="igorkostoski" /></p>
+
