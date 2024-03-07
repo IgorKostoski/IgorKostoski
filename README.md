@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Igor and I'm a software developer with main interest in frontend technologies, from Cologne, Germany.</h2>
+<h2 align="left">Hi 👋! My name is Igor and I'm a software developer, from Cologne, Germany.</h2>
 
 ###
 
